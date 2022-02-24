@@ -1,0 +1,3 @@
+"ip"huntersmp01.aternos.me",
+"port":"55607",
+"name":"huntu"
